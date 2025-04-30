@@ -1,8 +1,8 @@
-# 🧪 Laboratório 01 - Arthur Dantas Mangussi
+# 🧪 Laboratório 01 - Detectar Retângulos
 
 Trabalho prático desenvolvido para a disciplina de Visão Computacional no doutorado.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completo-brightgreen)
 
