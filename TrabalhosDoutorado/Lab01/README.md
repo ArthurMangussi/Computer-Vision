@@ -15,7 +15,6 @@ Trabalho prático desenvolvido para a disciplina de Visão Computacional no dout
 - [🖼️ Output esperado](#️-output-esperado)
 - [📦 Dependências](#-dependências)
 - [🤖 Uso de Inteligência Artificial](#-uso-de-inteligência-artificial)
-- [🔗 Referências](#-referências)
 
 ---
 
